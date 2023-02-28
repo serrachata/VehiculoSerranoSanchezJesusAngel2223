@@ -10,7 +10,7 @@ public class Main {
       public static void main(String[] args) {
         VehiculoSerranoSanchezJesusAngel2223 miVehiculoSerranoSanchezJesusAngel2223;
         int stockActual;
-          System.out.println("Jesus");
+        
         operativaVehiculosSerranoSanchezJesusAngel2223(50);
     }
 
